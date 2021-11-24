@@ -1,6 +1,5 @@
 # github-flow-practice
 
-### Coding First Steps Project
 
 ## About this project
 
